@@ -16,9 +16,13 @@
 | Day | Date | Task | What I Learned | Link to Code |
 | :--- | :--- | :--- | :--- | :--- |
 <<<<<<< HEAD
+<<<<<<< HEAD
 | **Day 1** | Jan 8 | Repository Setup and Created hello_world.py | Learned how to use print() and how to create a repo, add a description, and format a README. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day01) |
 =======
 
+=======
+| **Day 1** | Jan 8 | Repository Setup and Created hello_world.py | Learned how to use print() and how to create a repo, add a description, and format a README. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-01) |
+>>>>>>> 9f619fffd55c2540e5ca81e97b9ae9df05642609
 | **Day 2** | Jan 9 | First Script | (Waiting for tomorrow...) | [Link]() |
 
 ---
