@@ -15,7 +15,7 @@
 
 | Day | Date | Task | What I Learned | Link to Code |
 | :--- | :--- | :--- | :--- | :--- |
-| **Day 1** | Jan 8 | Repository Setup | Learned how to create a repo, add a description, and format a README. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-01) |
+| **Day 1** | Jan 8 | Repository Setup | Learned how to create a repo, add a description, and format a README. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-01)|
 | **Day 2** | Jan 9 | First Script | (Waiting for tomorrow...) | [Link]() |
 
 ---
