@@ -1,5 +1,5 @@
-readings=[12,45,67,23,89,34,99,10,56]
-threshold = 60
+readings=eval(input("Enter readings in List : "))
+threshold = int(input("Enter Threshold value : "))
 alert =[]
 print(f"Analyzing {len(readings)} sensor readings...")
 for i in range(0,len(readings)):
