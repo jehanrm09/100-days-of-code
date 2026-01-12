@@ -1,0 +1,14 @@
+You are given a list of integers representing a "Mountain Range."
+You need to find the highest peak (the maximum value) and its index (its position) in the list.
+
+The Level-Up Rule: You are NOT allowed to use Python’s built-in max() or .index() functions. 
+You must use a loop to "walk" through the numbers and keep track of the highest one yourself.
+
+Expected Terminal Output
+Scanning mountain range: [1200, 3400, 5600, 2100, 8900, 4300, 7700]
+New peak found: 3400 at position 1
+New peak found: 5600 at position 2
+New peak found: 8900 at position 4
+--- Analysis Complete ---
+Highest Peak: 8900 meters.
+Located at Index: 4
