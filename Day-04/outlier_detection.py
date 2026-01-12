@@ -8,7 +8,7 @@ for i in range(0,len(readings)):
         alert.append(readings[i])
     continue
 
-print("---Analysis Completed---")
+print("----Analysis Completed----")
 print(f"Total Alert Found: {len(alert)}")
 
 if len(alert) > 0:
