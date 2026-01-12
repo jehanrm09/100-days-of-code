@@ -1,11 +1,13 @@
 You are given a list of "Sensor Readings," and you must find which readings
 are "Alerts" (values that exceed a certain threshold) and calculate their average
 to see the severity of the issue.
+
 The Problem:
  * You have a list: readings = [12, 45, 67, 23, 89, 34, 99, 10, 56]
  * The threshold is 60.
  * You must use a for loop to look at every number.
- * The Goal: Create a new list called alerts, add only the numbers above the threshold to it, and then calculate the average of those alerts.
+ * The Goal: Create a new list called alerts, add only the numbers above the threshold
+   to it, and then calculate the average of those alerts.
 
 --- EXPECTED OUTPUT ---
 Analyzing 9 sensor readings...
