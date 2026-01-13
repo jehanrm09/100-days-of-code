@@ -1,0 +1,12 @@
+The Problem: You are given a sentence. You must count how many vowels (a, e, i, o, u) are in 
+it and create a new version of the string that contains only the consonants.
+
+The Level-Up Rules:
+ * You must iterate through the string using a loop.
+ * Use a membership test (the in keyword).
+ * Handle both uppercase and lowercase letters (LeetCode loves testing if you remember lower()).
+
+Original Text: Python Programming is Awesome
+--- Analysis Complete ---
+Vowels found: 9
+Text without vowels: Pythn Prgrmmng s wsm
