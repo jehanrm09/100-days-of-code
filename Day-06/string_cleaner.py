@@ -1,4 +1,4 @@
-text=input("Enter Statement: ")
+text =input("Enter Statement: ")
 alpha="AEIOU"
 counter=0
 new_text=""
