@@ -1,3 +1,5 @@
+
+
 The Problem: You are given a sentence. You must count how many vowels (a, e, i, o, u) are in 
 it and create a new version of the string that contains only the consonants.
 
