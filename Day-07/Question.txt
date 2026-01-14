@@ -1,4 +1,5 @@
 
+
 A palindrome is a word or phrase that reads the same backward as forward (like "radar" or "madam").
 You must write a program that takes a string and determines if it is a palindrome without using 
 the simple text[::-1] Python shortcut.
