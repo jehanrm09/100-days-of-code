@@ -1,0 +1,25 @@
+
+A palindrome is a word or phrase that reads the same backward as forward (like "radar" or "madam").
+You must write a program that takes a string and determines if it is a palindrome without using 
+the simple text[::-1] Python shortcut.
+
+The LeetCode Twist:
+1. You must normalize the string (remove spaces and make it lowercase).
+2. You must "rebuild" the string in reverse using a loop.
+3. Compare the original with the reversed version and return a Boolean (True/False) result.
+
+Expected Terminal Output
+
+Example 1 (Success):
+text: Enter a word or phrase to check: Race Car
+--- Results ---
+Original (Cleaned): racecar
+Reversed: racecar
+Is it a Palindrome? True
+
+Example 2 (Failure):
+text: Enter a word or phrase to check: Python
+--- Results ---
+Original (Cleaned): python
+Reversed: nohtyp
+Is it a Palindrome? False
