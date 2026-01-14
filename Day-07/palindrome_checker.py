@@ -18,6 +18,6 @@ print("-- Result --")
 print(f"Original (Cleaned): {new_text}")
 print(f"Reversed: {reverse_text}")
 if new_text == reverse_text:
-    print("It is a Palindrome")
+    print(f"Is it a Palindrome? { new_text==reverse_text}")
 else:
-    print("It is not a Palindrome")
+    print(f"Is it a Palindrome? { new_text==reverse_text}")
