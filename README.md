@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Progress Tracker
-- **Current Day:** Day 6 / 100
+- **Current Day:** Day 7 / 100
 - **Last Updated:** Jan 13, 2026
 - **Status:** Just Started! 🔥
 
@@ -21,7 +21,8 @@
 | **Day 4** | Jan 11 | Outlier Detection | List processing & Aggregates | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-04)|
 | **Day 5** | Jan 12 | Peak Finde | Max Search, Index tracking, and Algorithm efficiency. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-05) |
 | **Day 6** | Jan 13 | String Cleaner | String iteration, .lower(), and .isalpha() methods. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-06) |
-| **Day 7** | Jan 14 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
+| **Day 7** | Jan 14 | Palindrome Checker | Reverse indexing, string normalization, and Boolean logic. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-07) |
+| **Day 8** | Jan 15 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
 
 ---
 
