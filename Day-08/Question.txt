@@ -1,0 +1,26 @@
+
+
+The Problem: Print numbers from 1 to 50. But:
+If a number is divisible by 3, print "Fizz" instead of the number.
+If a number is divisible by 5, print "Buzz" instead of the number.
+If a number is divisible by both 3 and 5, print "FizzBuzz".
+
+The Level-Up Twist: You must write this using the most efficient if/elif structure.
+If you put the conditions in the wrong order, the program will fail the "FizzBuzz" check!
+
+--- Starting FizzBuzz (1 to 50) ---
+1
+2
+3: Fizz
+4
+5: Buzz
+6: Fizz
+7
+8
+9: Fizz
+10: Buzz
+11
+12: Fizz
+13
+14
+15: FizzBuzz  <-- Correct! Both 3 and 5
