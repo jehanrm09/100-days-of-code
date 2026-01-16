@@ -1,0 +1,19 @@
+
+The Problem: You need to generate a perfect 5*5 multiplication table grid.
+
+The LeetCode Twist: 
+1. You cannot simply print lines of text. You must use two loops: an outer 
+loop for rows and an inner loop for columns.
+2. You must use "String Formatting" to ensure the numbers align perfectly in 
+columns (so a "10" takes up the same space as a "2").3. This is the foundation for
+understanding O(n^2) Time Complexity—where the amount of work the computer does grows
+squared relative to the input.
+
+Expected Terminal Output:-
+--- 5x5 Multiplication Table ---
+  1   2   3   4   5 
+  2   4   6   8  10 
+  3   6   9  12  15 
+  4   8  12  16  20 
+  5  10  15  20  25
+
