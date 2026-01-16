@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 Progress Tracker
-- **Current Day:** Day 7 / 100
-- **Last Updated:** Jan 14, 2026
+- **Current Day:** Day 9 / 100
+- **Last Updated:** Jan 16, 2026
 - **Status:** Just Started! 🔥
 
 ---
@@ -22,7 +22,9 @@
 | **Day 5** | Jan 12 | Peak Finde | Max Search, Index tracking, and Algorithm efficiency. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-05) |
 | **Day 6** | Jan 13 | String Cleaner | String iteration, .lower(), and .isalpha() methods. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-06) |
 | **Day 7** | Jan 14 | Palindrome Checker | Reverse indexing, string normalization, and Boolean logic. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-07) |
-| **Day 8** | Jan 15 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
+| **Day 8** | Jan 15 | FizzBuzz | Logical Priority & Modulo | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-08) |
+| **Day 9** | Jan 16 | Multiplication Grid | Nested loops and formatted output control. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-09) |
+| **Day 10** | Jan 17 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
 
 ---
 
