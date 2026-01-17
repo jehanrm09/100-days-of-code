@@ -1,0 +1,26 @@
+
+
+The Problem:
+You are managing a store. You need to store items and their prices, then allow 
+a user to "query" the system to find a price. If the item doesn't exist, you must 
+handle that "edge case."
+
+The Level-Up Rules:
+Use a Dictionary ({key: value}) to store the data.
+Implement a search feature that checks if a key exists using the in keyword.
+Use a loop to allow the user to check multiple items until they type "exit."
+
+
+Expected Terminal Output:- 
+
+--- Welcome to the Milestone Store ---
+Available: apple, banana, orange, milk, bread
+
+Enter item name to check price: apple
+The price of apple is $0.5
+
+Enter item name to check price: pizza
+Error: 'pizza' is not in our inventory.
+
+Enter item name to check price: exit
+Closing System. Great job on Day 10!
