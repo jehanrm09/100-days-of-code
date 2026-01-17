@@ -11,8 +11,8 @@ for i in inventor.keys():
 
 print()
 while(True):
-    item_name=input("Enter item name to check price: ").lower()
-    if item_name=="exit":
+    item_name=input("Enter item name to check price (or 'q' to quit): ").lower()
+    if item_name=="q":
         print("Closing System.")
         break
     elif item_name in inventor:
