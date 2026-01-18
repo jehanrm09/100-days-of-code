@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 Progress Tracker
-- **Current Day:** Day 10 / 100
-- **Last Updated:** Jan 17, 2026
+- **Current Day:** Day 11 / 100
+- **Last Updated:** Jan 18, 2026
 - **Status:** Just Started! 🔥
 
 ---
@@ -25,7 +25,8 @@
 | **Day 8** | Jan 15 | FizzBuzz | Logical Priority & Modulo | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-08) |
 | **Day 9** | Jan 16 | Multiplication Grid | Nested loops and formatted output control. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-09) |
 | **Day 10** | Jan 17 | Inventory System | Dictionaries (Hash Maps), Key-Value pairs, and Search efficiency | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-10) |
-| **Day 11** | Jan 18 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
+| **Day 11** | Jan 18 | Word Counter | Dynamic Dictionary updates and .items() iteration | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-11) |
+| **Day 12** | Jan 19 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
 
 ---
 
