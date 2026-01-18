@@ -1,0 +1,23 @@
+
+
+The Problem: You are given a list of words (like a log of search terms). You need
+ to count how many times each word appears and store the results in a dictionary.
+
+The Level-Up Rules:
+You must start with an empty dictionary {}.
+Iterate through the list.
+
+Logic: If the word is already in the dictionary, increase its count by 1. If it's
+not, add it with a starting value of 1.
+
+
+Expected Terminal Output:-
+
+Processing data: ['apple', 'banana', 'apple', 'orange', 'apple', 'banana', 'grape']
+--- Final Counts ---
+Apple: 3
+Banana: 2
+Orange: 1
+Grape: 1
+
+Most frequent item: Apple
