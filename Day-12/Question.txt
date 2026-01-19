@@ -1,0 +1,14 @@
+
+
+The Problem: You are building a travel app. You need a way to convert different 
+currencies (USD to EUR, USD to GBP, etc.) without writing the math over and over again.
+
+The Level-Up Rules:
+Define a function called convert_currency(amount, rate).
+The function must return the result, not just print it.
+Call the function multiple times with different values to show its reusability
+
+--- Currency Report for $100 ---
+In Euros: €92.0
+In British Pounds: £79.0
+Small Change ($5) in Euros: €4.6
