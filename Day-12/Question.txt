@@ -10,5 +10,6 @@ Call the function multiple times with different values to show its reusability
 
 --- Currency Report for $100 ---
 In Euros: €92.0
+In Indiand Rupees: ₹9090
 In British Pounds: £79.0
 Small Change ($5) in Euros: €4.6
