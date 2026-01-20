@@ -1,0 +1,19 @@
+
+
+The Problem: Write a function is_prime(number) that returns True if 
+a number is prime and False if it is not.
+
+The Level-Up Rules:
+Handle Edge Cases: Numbers less than 2 are not prime.
+Efficiency: If you find even one number that divides the input perfectly,
+return False immediately (don't keep looping).
+Loop Range: You only need to check from 2 up to the number itself.
+
+Expected Terminal Output:-
+--- Prime Number Analysis ---
+❌ 1 is NOT a Prime Number.
+✅ 2 is a Prime Number.
+✅ 13 is a Prime Number.
+❌ 15 is NOT a Prime Number.
+❌ 20 is NOT a Prime Number.
+✅ 29 is a Prime Number.
