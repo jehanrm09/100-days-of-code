@@ -28,7 +28,7 @@
 | **Day 11** | Jan 18 | Word Counter | Dynamic Dictionary updates and .items() iteration | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-11) |
 | **Day 12** | Jan 19 | Currency Converter | Functions, def, Parameters, and return. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-12) |
 | **Day 13** | Jan 20 | Prime Validator | Boolean functions, loop efficiency, and edge cases. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-13) |
-| **Day 13** | Jan 21 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
+| **Day 14** | Jan 21 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
 
 ---
 
