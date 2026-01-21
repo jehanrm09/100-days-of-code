@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 Progress Tracker
-- **Current Day:** Day 13 / 100
-- **Last Updated:** Jan 20, 2026
+- **Current Day:** Day 14 / 100
+- **Last Updated:** Jan 21, 2026
 - **Status:** Just Started! 🔥
 
 ---
@@ -27,8 +27,9 @@
 | **Day 10** | Jan 17 | Inventory System | Dictionaries (Hash Maps), Key-Value pairs, and Search efficiency | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-10) |
 | **Day 11** | Jan 18 | Word Counter | Dynamic Dictionary updates and .items() iteration | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-11) |
 | **Day 12** | Jan 19 | Currency Converter | Functions, def, Parameters, and return. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-12) |
-| **Day 13** | Jan 20 | Prime Validator | Boolean functions, loop efficiency, and edge cases. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-13) |
-| **Day 14** | Jan 21 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
+| **Day 13** | Jan 20 | Prime Validator | Boolean functions, loop efficiency, and edge cases. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-13)|
+| **Day 14** | Jan 21 | Rectangle Architect | Default parameters and Tuple unpacking (Multiple Returns). | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-14) |
+| **Day 15** | Jan 22 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() | 
 
 ---
 
