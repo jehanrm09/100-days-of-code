@@ -1,0 +1,27 @@
+
+
+🚀 The Day 14 Challenge: "The Rectangle Architect"
+Your goal today is to build a function that calculates both the Area and the Perimeter of a rectangle.
+
+The Logic to implement:
+1.Define a function that takes two inputs: length and width.
+2.Set a Default Value for width (for example, width = 5). This meansif the user only gives you one number,
+  the function assumes it's a rectangle with a width of 5.
+3.Inside the function, calculate:
+  Area = length * width
+  perimeter= 2*(length*width)
+4.Return both results at the same time.
+5.When you call the function, practice "unpacking" the results into two different variables.
+
+Expected Output:-
+
+--- Rectangle Analysis ---
+Scenario 1: Custom Dimensions (Length=10, Width=20)
+Area: 200
+Perimeter: 60
+
+Scenario 2: Default Width (Length=10, Width=5)
+Area: 50
+Perimeter: 30
+
+Unpacked Data: Area is 50 and Perimeter is 30.
