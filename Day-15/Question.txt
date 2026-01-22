@@ -1,0 +1,19 @@
+
+
+The Problem: You have a list of raw user data (strings). Some are valid emails ending in .com, and some are
+just usernames. You need to create a new list that contains only the valid emails, but all converted to lowercase.
+
+The Rules:
+Start with a list: data = ["Alice@gmail.com", "Bob123", "CHARLIE@HOTMAIL.COM", "Admin", "support@company.com"]
+
+Use one single line of code (a List Comprehension) to:
+Filter out strings that do not contain ".com".
+Convert the remaining valid emails to lowercase.
+
+
+Expected Terminal Output:-
+--- Raw Data Analysis ---
+Original: ['Alice@gmail.com', 'Bob123', 'CHARLIE@HOTMAIL.COM', 'Admin', 'support@company.com']
+
+--- Cleaned Email List ---
+['alice@gmail.com', 'charlie@hotmail.com', 'support@company.com']
