@@ -1,0 +1,21 @@
+
+
+The Problem: Build a simple "Daily Journal" or "Log" system. The program should ask the
+user for a thought or a task and save it into a file called notes.txt. Each time you run 
+the program, it should add to the list, not delete it.
+
+The Rules:
+Use the 'a' (append) mode so you don't lose previous notes.
+Add a timestamp or a simple "New Entry:" prefix to each line.
+After saving, the program should read the entire file back to the user to show all entries.
+
+Expected Terminal Output:-
+--- Daily Logger ---
+What is on your mind? I finished my 15th day of code yesterday!
+
+... Saving to notes.txt ...
+
+--- All Entries So Far ---
+1. Learning Python logic.
+2. Building an ATM simulator.
+3. I finished my 15th day of code yesterday!
