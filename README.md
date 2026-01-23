@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 Progress Tracker
-- **Current Day:** Day 15 / 100
-- **Last Updated:** Jan 22, 2026
+- **Current Day:** Day 16 / 100
+- **Last Updated:** Jan 23, 2026
 - **Status:** Just Started! 🔥
 
 ---
@@ -30,7 +30,8 @@
 | **Day 13** | Jan 20 | Prime Validator | Boolean functions, loop efficiency, and edge cases. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-13)|
 | **Day 14** | Jan 21 | Rectangle Architect | Default parameters and Tuple unpacking (Multiple Returns). | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-14) |
 | **Day 15** | Jan 22 | Email Filter | List Comprehensions (Filtering & Transformation). | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-15) | 
-| **Day 16** | Jan 23 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() | 
+| **Day 16** | Jan 23 | Persistent Logger | File Handling (write, append, read) and Context Managers. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-16) | 
+| **Day 17** | Jan 24 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() | 
 
 ---
 
