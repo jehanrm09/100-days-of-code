@@ -9,6 +9,7 @@ char_count=len(f.read())-(len(word_count)-1)
 for i in line:
     line_count+=1
 
-print(line_count)
-print(len(word_count))
-print(char_count)
+print("--- File Statistics Report ---")
+print(f"Total Lines: {line_count}")
+print(f"Total Words:: {len(word_count)}")
+print(f"Total Characters: {char_count}")
