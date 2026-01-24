@@ -1,0 +1,18 @@
+
+
+The Problem: Your notes.txt file from yesterday is just a pile of text.
+Today, you will write a script that reads that file, cleans up the text,
+and prints it out as a Numbered To-Do List.
+
+The Rules:
+Open notes.txt in Read ('r') mode.
+Use a loop to go through the file line-by-line.
+Use .strip() to make sure there are no weird gaps.
+Print each line with a number in front (e.g., "1. Buy Milk").
+
+Expected Terminal Output:-
+--- Your Professional Task List ---
+1. I finished my 15th day of code yesterday!
+2. Learn how to format files.
+3. Research Python Error Handling.
+----------------------------------
