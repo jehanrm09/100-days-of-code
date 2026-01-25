@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 Progress Tracker
-- **Current Day:** Day 17 / 100
-- **Last Updated:** Jan 24, 2026
+- **Current Day:** Day 18 / 100
+- **Last Updated:** Jan 25, 2026
 - **Status:** Just Started! 🔥
 
 ---
@@ -32,7 +32,8 @@
 | **Day 15** | Jan 22 | Email Filter | List Comprehensions (Filtering & Transformation). | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-15) | 
 | **Day 16** | Jan 23 | Persistent Logger | File Handling (write, append, read) and Context Managers. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-16) | 
 | **Day 17** | Jan 24 | File Statistician | String splitting (.split()), multi-variable counters, and file iteration.) | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-17) |
-| **Day 18** | Jan 25 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() | 
+| **Day 18** | Jan 25 | Keyword Locator | Linear Search, String Membership, and Flags. | [Link]() | 
+| **Day 19** | Jan 26 | (Updating soon..) | (Waiting for tomorrow...) | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-18) | 
 
 ---
 
