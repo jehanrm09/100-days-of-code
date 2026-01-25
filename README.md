@@ -32,8 +32,8 @@
 | **Day 15** | Jan 22 | Email Filter | List Comprehensions (Filtering & Transformation). | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-15) | 
 | **Day 16** | Jan 23 | Persistent Logger | File Handling (write, append, read) and Context Managers. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-16) | 
 | **Day 17** | Jan 24 | File Statistician | String splitting (.split()), multi-variable counters, and file iteration.) | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-17) |
-| **Day 18** | Jan 25 | Keyword Locator | Linear Search, String Membership, and Flags. | [Link]() | 
-| **Day 19** | Jan 26 | (Updating soon..) | (Waiting for tomorrow...) | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-18) | 
+| **Day 18** | Jan 25 | Keyword Locator | Linear Search, String Membership, and Flags. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-18) | 
+| **Day 19** | Jan 26 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() | 
 
 ---
 
