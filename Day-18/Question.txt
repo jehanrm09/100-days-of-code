@@ -1,0 +1,22 @@
+The Logic you need to implement:
+User Input: Ask the user: "What word are you looking for?"
+The Loop: Open notes.txt in Read mode and look at every line.
+The Match: If the keyword is in the line:
+Print the line number (using enumerate).
+Print the actual line.
+Set your "Found" flag to True.
+The Result: After the loop, if the flag is still False, tell the user the word doesn't exist.
+
+Expected Terminal Output:-
+Scenario A: Word is Found If the word "python" is in your file on line 2 and 5:
+
+Enter search keyword: python
+--- Search Results ---
+[Line 2] I am learning python today.
+[Line 5] Python is great for data.
+
+Scenario B: Word is NOT Found
+
+Enter search keyword: spaceship
+--- Search Results ---
+No matches found for "spaceship".
