@@ -1,0 +1,17 @@
+The Problem: Your notes.txt file has some "sensitive" words (like a password or a specific name) 
+that you want to hide. You need to replace every instance of a specific word with [REDACTED].
+
+The Logic you need to implement:
+Read: Open notes.txt and get all the lines.
+The Target: Define a word you want to hide (e.g., target = "secret").
+The Process: Create a new list. Loop through the old lines and use .replace() to swap the target
+word for "[REDACTED]".
+The Overwrite: Open the same file notes.txt in Write ('w') mode. This will empty the file so you 
+can write your new, clean lines back into it.
+
+Expected Output:-
+If your file was:
+I have a secret plan. This is a secret note.
+
+After running the script, it becomes:
+I have a [REDACTED] plan. This is a [REDACTED] note.
