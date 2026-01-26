@@ -16,4 +16,5 @@ try:
     print(f"Success! All instances of '{target}' have been hidden.")
 
 except FileNotFoundError:
-    print("Error: notes.txt doesn't exist. Run your Day 16 script first!")
+    print("Error: note.txt doesn't exist. Run your Day 16 script first!")
+
