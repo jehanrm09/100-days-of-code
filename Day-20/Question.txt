@@ -1,0 +1,17 @@
+
+
+The Problem: You have a file called users.txt (or you can create it) where 
+each line looks like this: Alice,25,Engineer. You need to read this file and 
+print a human-friendly sentence for each person.
+
+The Parser:
+Use a try/except block to handle missing files.
+Loop through each line.
+Use .strip() to remove the newline, then .split(",") to turn the string into a list.
+
+Expected Terminal Output:-
+--- User Database Report ---
+Name: Alice     | Age: 25 | Role: Engineer
+Name: Bob       | Age: 30 | Role: Designer
+Name: Charlie   | Age: 22 | Role: Developer
+----------------------------
