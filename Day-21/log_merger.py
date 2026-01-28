@@ -13,10 +13,11 @@ files_to_merger=["work_task.txt","personal_task.txt"]
 with open("master_log.txt","w") as f:
     try:
         for i in files_to_merger:
+            print(f"Merging: {i}... Success!")
             f3=open(f"{i}")
             f.write(f3.read())
             
     except FileNotFoundError:
-        print("File Not Found")
-
- 
+        print(f"Merging: {i}... Error: File not found.")
+print()
+print("--- Process Complete ---\nCheck 'master_log.txt' for the combined results.")
