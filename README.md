@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 Progress Tracker
-- **Current Day:** Day 19 / 100
-- **Last Updated:** Jan 26, 2026
+- **Current Day:** Day 20 / 100
+- **Last Updated:** Jan 27, 2026
 - **Status:** Just Started! 🔥
 
 ---
@@ -34,7 +34,8 @@
 | **Day 17** | Jan 24 | File Statistician | String splitting (.split()), multi-variable counters, and file iteration.) | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-17) |
 | **Day 18** | Jan 25 | Keyword Locator | Linear Search, String Membership, and Flags. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-18) | 
 | **Day 19** | Jan 26 | Data Scrubber | String .replace(), Overwriting files ('w'), and Data Masking. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-19) | 
-| **Day 20** | Jan 27 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() | 
+| **Day 20** | Jan 27 | CSV Parser | .split(","), Data Unpacking, and Structured File I/O. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-20) |
+| **Day 21** | Jan 28 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
 
 ---
 
