@@ -1,0 +1,21 @@
+
+
+The Problem: You have scattered notes. You need to automate the 
+process of collecting them into one big archive.
+
+The Logic you need to implement:
+1. Setup: Create two small text files manually (or via code) with a few lines of text in each.
+2. The List: Create a Python list containing the names of these files: files_to_merge = ["file1.txt", "file2.txt"].
+3. The Process: * Use a with open("master_log.txt", "w") as master: block.
+   - Inside that, loop through your files_to_merge.
+   - For each file, use a try/except block (because one might be missing!).
+   - Read the content and write it into the master.
+4. Feedback: Print a message for each file successfully merged.
+
+Expected Terminal Output:-
+Merging: file1.txt... Success!
+Merging: file2.txt... Success!
+Merging: file3.txt... Error: File not found.
+
+--- Process Complete ---
+Check 'master_log.txt' for the combined results.
