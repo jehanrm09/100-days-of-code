@@ -7,7 +7,7 @@
 ## 🚀 Progress Tracker
 - **Current Day:** Day 22 / 100
 - **Last Updated:** Jan 29, 2026
-- **Status:** Just Started! 🔥
+- **Status:** Moving into Week 4, the focus has shifted from writing simple logic to building resilient scripts. 🔥
 
 ---
 
@@ -36,8 +36,8 @@
 | **Day 19** | Jan 26 | Data Scrubber | String .replace(), Overwriting files ('w'), and Data Masking. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-19) | 
 | **Day 20** | Jan 27 | CSV Parser | .split(","), Data Unpacking, and Structured File I/O. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-20) |
 | **Day 21** | Jan 28 | Log Merger | Nested with open, Batch Processing, and Data Consolidation. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-21) |
-| **Day 22** | Jan 29 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
-| **Day 22** | Jan 29 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
+| **Day 22** | Jan 29 | Directory Architect | os module, os.path.exists(), and os.mkdir(). | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-22) |
+| **Day 23** | Jan 30 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
 
 ---
 
