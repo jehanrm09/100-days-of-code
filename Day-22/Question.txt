@@ -1,0 +1,16 @@
+
+
+The Problem: Your project is getting messy with all these .txt files.
+You need a script that automatically organizes your workspace.
+
+The Logic you need to implement:
+  Define the Goal: You want to create a folder named Archive.
+  The Safety Check: Use an if statement to check if Archive already exists.
+  The Move (Simulated):  After the folder is ready, take your master_log.txt from yesterday and "move" it.
+
+Expected Terminal Output:-
+Checking workspace...
+Folder 'Archive' not found. Creating it now...
+Success! Folder created.
+Moving 'master_log.txt' to 'Archive/'...
+Workspace is now organized!
