@@ -1,0 +1,19 @@
+
+
+The Problem: You have many files, and you need a report of only your
+ Python scripts to see how much you've coded.
+
+The Logic you need to implement:
+The Scan: Use os.listdir() to grab everything in your project folder.
+The Filter: Loop through that list and check if each item ends with .py.
+The Counter: Keep a running total of how many scripts you find.
+The Report: Print the name of each script found and the final total.
+
+Expected Terminal Output:-
+--- Scanning Workspace for Python Scripts ---
+Found: organizer.py
+Found: csv_parser.py
+Found: scrubber.py
+
+Total scripts identified: 3
+Audit Complete.
