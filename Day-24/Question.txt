@@ -1,0 +1,11 @@
+
+
+🚀 The Day 25 Challenge: The Smart Security Gate
+The Problem: You are building a login system that only lets
+people in if they meet specific, complex rules.
+
+The Rules for Access:
+1. User must have the correct password.
+2. AND they must be over 18 years old.
+3. OR, if they are an Admin, they get in regardless of age
+   (but still need the password).
