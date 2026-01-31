@@ -16,6 +16,6 @@ else:
     print("Access Denied")
 
     if password!=stored_pass:
-        print("Incorrect Password")
+        print("Incorrect Password.")
     else:
-        print("Age requirements not met")
+        print("Age requirements not met.")
