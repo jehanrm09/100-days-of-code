@@ -1,0 +1,15 @@
+
+
+The Day 25 Challenge: "The Brute-Force Protector"
+The Problem: Build a login system that gives the user 3 attempts. If they fail all 3, they are
+"locked out." If they get it right, the loop breaks immediately.
+
+The Logic:
+1. Initialize: Set a password and attempts = 3.
+2. The Loop: Create a while attempts > 0:.
+3. The Input: Ask for the password.
+4. The Comparison:
+   If correct: Set your flag to True and break.
+   If wrong: Subtract 1 from attempts and tell them how many are left.
+
+5. The Final Check: Outside the loop, check if the flag is True or False to give the final result.
