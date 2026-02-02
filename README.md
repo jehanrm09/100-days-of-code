@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 Progress Tracker
-- **Current Day:** Day 23 / 100
-- **Last Updated:** Jan 30, 2026
+- **Current Day:** Day 25 / 100
+- **Last Updated:** Feb 1, 2026
 - **Status:** Moving into Week 4, the focus has shifted from writing simple logic to building resilient scripts. 🔥
 
 ---
@@ -38,7 +38,9 @@
 | **Day 21** | Jan 28 | Log Merger | Nested with open, Batch Processing, and Data Consolidation. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-21) |
 | **Day 22** | Jan 29 | Directory Architect | os module, os.path.exists(), and os.mkdir(). | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-22) |
 | **Day 23** | Jan 30 | Workspace Auditor | os.listdir(), .endswith(), and Directory Scanning. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-23) |
-| **Day 24** | Jan 31 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
+| **Day 24** | Jan 31 | Security Gate | Boolean Logic (and, or), Input Handling. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-24) |
+| **Day 25** | Feb 1 | Smart Authenticator | while loops, Boolean Flags, and break statements. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-25) |
+| **Day 26** | Feb 2 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
 
 ---
 
