@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 Progress Tracker
-- **Current Day:** Day 26 / 100
-- **Last Updated:** Feb 2, 2026
+- **Current Day:** Day 27 / 100
+- **Last Updated:** Feb 3, 2026
 - **Status:** Moving into Week 4, the focus has shifted from writing simple logic to building resilient scripts. 🔥
 
 ---
@@ -41,7 +41,8 @@
 | **Day 24** | Jan 31 | Security Gate | Boolean Logic (and, or), Input Handling. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-24) |
 | **Day 25** | Feb 1 | Smart Authenticator | while loops, Boolean Flags, and break statements. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-25) |
 | **Day 26** | Feb 2 | Project Manager | while True, CLI Menus, and Command Dispatching. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-26) |
-| **Day 27** | Feb 3 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
+| **Day 27** | Feb 3 | (Updating soon..) | (Waiting for tomorrow...) | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-27) |
+| **Day 28** | Feb 4 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
 
 ---
 
