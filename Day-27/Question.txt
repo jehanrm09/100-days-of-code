@@ -1,4 +1,14 @@
- 
 
 
-dnsjkgyu sibd6s8tyuft9 sb
+The Day 27 Challenge: "The Persistent Task Manager"
+The Problem: You need a task manager that doesn't forget your tasks every time you close the terminal.
+
+The Logic you need to implement:
+
+1. Load: At the very top, check if tasks.txt exists. If yes, read it into a list called my_tasks.
+2. The Menu:
+     View: Show the current list with numbers (use enumerate for extra credit!).
+     Add: Append a new task to the list.
+     Remove: Delete a task by its name or number.
+
+3. Save & Exit: When the user chooses "Exit," loop through your my_tasks list and write each item into tasks.txt.
