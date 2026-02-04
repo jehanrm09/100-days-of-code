@@ -1,0 +1,12 @@
+
+
+The Day 28 Challenge: "The Input Cleaner"
+The Goal: Write a script that takes a "messy" student entry and returns 
+a "clean" record ready for your registration system.
+
+The Logic:
+1. Get the Full Name and College via input().
+2. Clean Name: Strip spaces and capitalize it correctly.
+3. Clean College: Ensure it doesn't contain commas (replace them with dashes)
+   so it doesn't break your file structure later.
+4. The Result: Print the "Before" vs. "After" to see the difference.
