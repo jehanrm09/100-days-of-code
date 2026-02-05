@@ -1,0 +1,14 @@
+
+
+The Day 29 Challenge: "The Profile Updater"
+The Problem: A student registered with the wrong "Specialization." 
+You need a script that finds their name and lets you type in their new details.
+
+The Logic:
+1. Load: Read students.txt into a list.
+2. Search: Ask for the name of the student to update.
+3. The Swap: * Find the index of that student.
+    - Ask for the "New Specialization."
+    - Update that specific spot in the list: students[index] = new_data.
+
+4. Save: Rewrite the file
