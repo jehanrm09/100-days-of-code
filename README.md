@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 Progress Tracker
-- **Current Day:** Day 28 / 100
-- **Last Updated:** Feb 4, 2026
+- **Current Day:** Day 29 / 100
+- **Last Updated:** Feb 5, 2026
 - **Status:** Moving into Week 4, the focus has shifted from writing simple logic to building resilient scripts. 🔥
 
 ---
@@ -43,7 +43,8 @@
 | **Day 26** | Feb 2 | Project Manager | while True, CLI Menus, and Command Dispatching. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-26) |
 | **Day 27** | Feb 3 | Task Manager | List persistence, enumerate(), and File-List synchronization. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-27) |
 | **Day 28** | Feb 4 | Data Sanitizer | Using .strip(), .title(), and .replace() to clean web-form data. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-28) |
-| **Day 29** | Feb 5 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
+| **Day 29** | Feb 5 | Profile Updater | range(len()) indexing and file overwriting. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-29) |
+| **Day 30** | Feb 6 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
 
 ---
 
