@@ -1,0 +1,14 @@
+
+
+The Day 30 Challenge: "The Student Withdrawal System"
+The Problem: A student has requested to be removed from the registration list.
+You need to find them by name and remove their entry completely.
+
+The Logic:
+1. Load: Read students.txt into a list.
+2. Target: Ask for the name of the student to remove.
+3. The Filter: Use a List Comprehension (this is the "Pro" way) to create a new
+   list that contains everyone unless their name matches the target.
+4. Confirm: Check if the new list is smaller than the old one. If it is, someone
+   was deleted!
+5. Save: Overwrite the file.
