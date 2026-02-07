@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 Progress Tracker
-- **Current Day:** Day 30 / 100
-- **Last Updated:** Feb 6, 2026
+- **Current Day:** Day 31 / 100
+- **Last Updated:** Feb 7, 2026
 - **Status:** Moving into Week 4, the focus has shifted from writing simple logic to building resilient scripts. 🔥
 
 ---
@@ -45,7 +45,8 @@
 | **Day 28** | Feb 4 | Data Sanitizer | Using .strip(), .title(), and .replace() to clean web-form data. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-28) |
 | **Day 29** | Feb 5 | Profile Updater | range(len()) indexing and file overwriting. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-29) |
 | **Day 30** | Feb 6 | Record Purge | List Comprehensions, Filter Logic, and CRUD Finalization. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-30) |
-| **Day 31** | Feb 7 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
+| **Day 31** | Feb 7 | Crash-Proofing | try, except, finally, and ValueError handling | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-31) |
+| **Day 32** | Feb 8 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
 
 ---
 
