@@ -1,0 +1,11 @@
+
+
+The Day 31 Challenge: "The Crash-Proof Registrar"
+The Problem: In your Student Registration portal, if you ask for "Starting Year" 
+and the user types "Twenty-Twenty-Six," the program crashes because it expects an integer.
+
+The Logic:
+1. Input: Ask for the starting_year.
+2. The Shield: Wrap the conversion in a try block.
+3. The Recovery: If the user types a string instead of a number, catch the ValueError 
+and give them a friendly message instead of a crash.
