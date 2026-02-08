@@ -1,0 +1,10 @@
+
+
+The Problem: Your Student Registration system crashes if students.txt is missing. We
+need to write a function that tries to load the data, and if it fails, it automatically
+creates a fresh file for you.
+
+The Logic:
+1.Try to open students.txt in read mode.
+2.Except FileNotFoundError: Print a warning and create a blank file so the program can continue.
+3.Except PermissionError: Tell the user to close the file in other programs.
