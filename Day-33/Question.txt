@@ -1,0 +1,13 @@
+
+
+The Day 33 Challenge: "The University Reporter"
+The Problem: Your students.txt is a big, messy list. Your boss wants to 
+see a report that groups students by their University so it's easier to read.
+
+The Logic:
+1. Define Categories: Create a list of the colleges you expect
+   (e.g., ["Ganpat", "Mehsana", "Ahmedabad"]).
+2. Outer Loop: Start with the first college.
+3. Inner Loop: Check every student in your database. If their
+   "College" field matches, print them under that heading.
+4. Repeat: Move to the next college.
