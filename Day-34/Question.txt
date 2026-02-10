@@ -1,0 +1,10 @@
+
+
+The Day 35 Challenge: "The Object Mapper"
+The Problem: You have a line from your file, but you want to turn it 
+into a smart "Object" so you can easily use it in your code.
+
+The Logic:
+1. Split: Take a string from your file.
+2. Map: Assign each part of that string to a Key in a dictionary.
+3. Process: Use the keys to print a beautiful, custom message.
