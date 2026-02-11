@@ -1,0 +1,12 @@
+
+
+The Day 35 Challenge: "The Record Manager"
+The Problem: You have multiple students, and you want to calculate how many 
+students are from a specific college or simply list their names professionally.
+
+The Logic:
+1. Create a list to hold multiple dictionaries.
+2. Add (Append) a few "Student Objects" to that list.
+3. Use a loop to "Unpack" the dictionaries and print a formatted summary.
+
+
