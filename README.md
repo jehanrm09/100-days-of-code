@@ -46,12 +46,11 @@
 | **Day 29** | Feb 5 | Profile Updater | range(len()) indexing and file overwriting. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-29) |
 | **Day 30** | Feb 6 | Record Purge | List Comprehensions, Filter Logic, and CRUD Finalization. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-30) |
 | **Day 31** | Feb 7 | Crash-Proofing | try, except, finally, and ValueError handling | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-31) |
-| **Day 32** | Feb 8 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
-| **Day 33** | Feb 9 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
-| **Day 34** | Feb 10 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
-| **Day 35** | Feb 11 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
+| **Day 32** | Feb 8 | Safe File Loader | FileNotFoundError, PermissionError, and Self-Healing logic. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-32) |
+| **Day 33** | Feb 9 | University Reporter | Nested Loops, Data Categorization, and .split(). | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-33) |
+| **Day 34** | Feb 10 | Data Objects | Python Dictionaries (dict), Key-Value mapping. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-34) |
+| **Day 35** | Feb 11 | Collection Management | Lists of Dictionaries, Data Unpacking, and Aggregation. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-35) |
 | **Day 36** | Feb 12 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
-| **Day 37** | Feb  | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
 
 ---
 
