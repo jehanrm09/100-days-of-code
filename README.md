@@ -5,9 +5,9 @@
 ---
 
 ## 🚀 Progress Tracker
-- **Current Day:** Day 34 / 100
-- **Last Updated:** Feb 10, 2026
-- **Status:** Moving into Week 4, the focus has shifted from writing simple logic to building resilient scripts. 🔥
+- **Current Day:** Day 35 / 100
+- **Last Updated:** Feb 11, 2026
+- **Status:** Moving into Week 5, the focus has shifted from writing simple logic to building resilient scripts. 🔥
 
 ---
 
@@ -47,6 +47,11 @@
 | **Day 30** | Feb 6 | Record Purge | List Comprehensions, Filter Logic, and CRUD Finalization. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-30) |
 | **Day 31** | Feb 7 | Crash-Proofing | try, except, finally, and ValueError handling | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-31) |
 | **Day 32** | Feb 8 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
+| **Day 33** | Feb 9 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
+| **Day 34** | Feb 10 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
+| **Day 35** | Feb 11 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
+| **Day 36** | Feb 12 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
+| **Day 37** | Feb  | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
 
 ---
 
