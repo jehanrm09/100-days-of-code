@@ -1,0 +1,12 @@
+
+
+The Day 36 Challenge: "The Record Finder"
+The Problem: You have 50 students in your list. You need to 
+find the specific dictionary for "Alex" and print his college name.
+
+The Logic:
+1. Iterate: Use for student in database:.
+2. Compare: Check the 'name' key.
+3. Display: If it matches, print the details and break.
+
+
