@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 Progress Tracker
-- **Current Day:** Day 35 / 100
-- **Last Updated:** Feb 11, 2026
+- **Current Day:** Day 36 / 100
+- **Last Updated:** Feb 12, 2026
 - **Status:** Moving into Week 5, the focus has shifted from writing simple logic to building resilient scripts. 🔥
 
 ---
@@ -50,7 +50,8 @@
 | **Day 33** | Feb 9 | University Reporter | Nested Loops, Data Categorization, and .split(). | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-33) |
 | **Day 34** | Feb 10 | Data Objects | Python Dictionaries (dict), Key-Value mapping. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-34) |
 | **Day 35** | Feb 11 | Collection Management | Lists of Dictionaries, Data Unpacking, and Aggregation. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-35) |
-| **Day 36** | Feb 12 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
+| **Day 36** | Feb 12 | Record Finder | Dictionary Lookup, Break Statements, and Search Logic. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-36) |
+| **Day 37** | Feb 13 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
 
 ---
 
