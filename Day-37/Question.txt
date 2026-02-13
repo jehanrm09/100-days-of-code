@@ -1,0 +1,12 @@
+
+
+The Day 37 Challenge: "The Skill Upgrader"
+The Problem: A student has completed a new course and wants to 
+update the "Skill" listed in their registration profile.
+
+The Logic:
+1. Ask the user for the Name of the student to update.
+2. Search the list of dictionaries.
+3. If found, ask for the New Skill.
+4. Update the dictionary and show the "Before" vs. "After."
+
