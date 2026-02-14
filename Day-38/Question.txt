@@ -1,0 +1,9 @@
+
+
+The Day 38 Challenge: "The Safe Deleter"
+The Problem: A company or student wants to be removed from your database.
+You need to find their dictionary and wipe it from the list.
+
+The Logic:
+1. The Filter Method: We will create a new list that includes everyone except
+   the person we want to delete. This is the safest way to handle data in memory.
