@@ -5,9 +5,9 @@
 ---
 
 ## 🚀 Progress Tracker
-- **Current Day:** Day 37 / 100
-- **Last Updated:** Feb 13, 2026
-- **Status:** Moving into Week 5, the focus has shifted from writing simple logic to building resilient scripts. 🔥
+- **Current Day:** Day 38 / 100
+- **Last Updated:** Feb 14, 2026
+- **Status:** Moving into Week 6, the focus has shifted from writing simple logic to building resilient scripts. 🔥
 
 ---
 
@@ -52,7 +52,7 @@
 | **Day 35** | Feb 11 | Collection Management | Lists of Dictionaries, Data Unpacking, and Aggregation. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-35) |
 | **Day 36** | Feb 12 | Record Finder | Dictionary Lookup, Break Statements, and Search Logic. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-36) |
 | **Day 37** | Feb 13 | Profile Modifier | In-place updates, Mutability, and Targeted Key Access. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-37) |
-| **Day 38** | Feb 14 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
+| **Day 38** | Feb 14 | Record Remover | List Filtering, Dictionary Deletion, and Length Validation. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-38) |
 | **Day 39** | Feb 15 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
 
 ---
