@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 Progress Tracker
-- **Current Day:** Day 38 / 100
-- **Last Updated:** Feb 14, 2026
+- **Current Day:** Day 39 / 100
+- **Last Updated:** Feb 15, 2026
 - **Status:** Moving into Week 6, the focus has shifted from writing simple logic to building resilient scripts. 🔥
 
 ---
@@ -53,7 +53,8 @@
 | **Day 36** | Feb 12 | Record Finder | Dictionary Lookup, Break Statements, and Search Logic. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-36) |
 | **Day 37** | Feb 13 | Profile Modifier | In-place updates, Mutability, and Targeted Key Access. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-37) |
 | **Day 38** | Feb 14 | Record Remover | List Filtering, Dictionary Deletion, and Length Validation. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-38) |
-| **Day 39** | Feb 15 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
+| **Day 39** | Feb 15 | System Config | Global Constants, ALL_CAPS convention, and Rule enforcement. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-39) |
+| **Day 40** | Feb 16 | (Updating soon..) | (Waiting for tomorrow...) | [Link]() |
 
 ---
 
