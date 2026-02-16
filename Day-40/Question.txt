@@ -1,0 +1,10 @@
+
+
+The Day 40 Challenge: "The Analytics Engine"
+The Goal: Create a function that scans your entire database 
+(your list of dictionaries) and prints a high-level summary.
+
+The Logic:
+1. Counters: Initialize variables to count different categories.
+2. Loop & Logic: Iterate through the database and update counters based on the dictionary values.
+3. Calculations: Use your MAX_CAPACITY constant to figure out the "Fill Percentage."
