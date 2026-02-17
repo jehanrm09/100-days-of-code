@@ -1,0 +1,14 @@
+
+
+The Day 41 Challenge: "The Automatic Time-Stamper"
+The Problem: Your "Company Registration" form saves data, but you 
+don't know who registered first. You need to add a "Created At" 
+field to every dictionary automatically.
+
+The Logic:
+1. Import the datetime module.
+2. Capture the current time at the moment of registration.
+3. Format it into a clean, human-readable string.
+4. Store it inside your dictionary object.
+
+
