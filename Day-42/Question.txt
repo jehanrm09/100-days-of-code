@@ -1,0 +1,11 @@
+
+
+The Day 42 Challenge: "The Priority Viewer"
+The Goal: Take your list of registrations and sort them 
+so that the most recent person to sign up appears first.
+
+The Logic:
+1. Use the sorted() function.
+2. Use a lambda to point to the time or id key.
+3. Toggle the order to show the latest entries.
+
