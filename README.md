@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 Progress Tracker
-- **Current Day:** Day 42 / 100
-- **Last Updated:** Feb 18, 2026
+- **Current Day:** Day 43 / 100
+- **Last Updated:** Feb 19, 2026
 - **Status:** Moving into Week 6, the focus has shifted from writing simple logic to building resilient scripts. 🔥
 
 ---
@@ -57,7 +57,8 @@
 | **Day 40** | Feb 16 | Admin Dashboard | Data Aggregation, Percentage Logic, and Summary Functions. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-40) |
 | **Day 41** | Feb 17 | Registration Logger | datetime.now(), f-string table formatting, and session logging. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-41) |
 | **Day 42** | Feb 18 | Data Sorter | lambda functions, sorted() key parameters, and reverse sorting. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-42) |
-| **Day 43** | Feb 19 | (Updating soon..) | (Waiting for tomorrow...) | [View Code] |
+| **Day 43** | Feb 19 | Manual CSV | String-to-CSV logic and file writing. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-43) |
+| **Day 44** | Feb 20 | (Updating soon..) | (Waiting for tomorrow...) | [View Code] |
 
 ---
 
