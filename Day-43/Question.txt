@@ -1,0 +1,9 @@
+
+
+The Day 43 Challenge: "The Excel Porter"
+The Goal: Take your sorted student/company database and save it as a professional .csv file.
+
+The Logic:
+1. Define the Fieldnames (the columns you want).
+2. Open a file in w (write) mode.
+3. The \n at the end is the "Secret Sauce"—it tells Excel to move to the next row.
