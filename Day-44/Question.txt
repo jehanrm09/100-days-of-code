@@ -1,0 +1,11 @@
+
+
+Day 44: The "Unique Pair" Algorithm
+
+The Scenario: In your registration system, you have a list of 
+Company Names and a list of Available Slots. Some companies are 
+duplicates or have slightly different names.
+
+The LeetCode Challenge: Given an array of strings names, return 
+the length of the longest "Unique Sequence" you can form without 
+repeating a name, while ignoring case and extra spaces.
