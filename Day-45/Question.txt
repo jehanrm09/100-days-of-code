@@ -1,0 +1,7 @@
+
+
+Day 45: First Unique Character in an ID
+Classic Interview Problem: "Find the first non-repeating character"
+
+Step 1: Build a frequency map (Dictionary)
+Step 2: Scan the ID again to find the first character with a count of 1
