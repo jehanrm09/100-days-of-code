@@ -1,0 +1,16 @@
+
+
+Day 46: The "Valid Palindrome" Challenge
+
+The Official Problem Statement:
+Given a string s, determine if it is a palindrome,
+considering only alphanumeric characters and ignoring cases.
+
+The Constraints (The "LeetCode" Rules):
+1. Time Complexity: Must be O(n).
+
+2. Space Complexity: O(1) (You should try to solve
+   it without creating a new reversed string in memory).
+
+3. The Catch: You must handle non-alphanumeric characters
+   like #, -, or spaces without using complex regex.
