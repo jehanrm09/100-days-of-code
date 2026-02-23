@@ -1,0 +1,13 @@
+
+
+Day 47: The "Two Sum" Challenge
+
+The Official Problem Statement:"Given an array of integers nums and an integer
+ target, return indices of the two numbers such that they add up to target.
+
+"The Constraints:
+1. Time Complexity: You must solve this in O(n).
+2. The Trap: If you use a nested loop (loop inside a loop), your complexity is 
+   O(n^2), which is considered a "fail" in technical interviews for this problem.
+3. The Solution: You must use a Hash Map (Dictionary) to remember numbers you have
+   already seen.
