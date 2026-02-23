@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 Progress Tracker
-- **Current Day:** Day 45 / 100
-- **Last Updated:** Feb 21, 2026
+- **Current Day:** Day 46 / 100
+- **Last Updated:** Feb 22, 2026
 - **Status:** Moving into Week 6, the focus has shifted from writing simple logic to building resilient scripts. 🔥
 
 ---
@@ -60,6 +60,9 @@
 | **Day 43** | Feb 19 | Manual CSV | String-to-CSV logic and file writing. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-43) |
 | **Day 44** | Feb 20 | Unique Sequence | Sets, Time Complexity thinking, and String Manipulation | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-44) |
 | **Day 45** | Feb 21 | Unique ID Finder | Frequency Maps, O(n) Search, Hash Maps. | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-45) |
+| **Day 46** | Feb 22 | Valid Palindrome | Two-Pointer approach, O(1) Space, isalnum(). | [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-46) |
+| **Day 47** | Feb 23 | (Waiting For Tomorrow) | (Waiting For Tomorrow) | [View Code] |
+
 
 ---
 
