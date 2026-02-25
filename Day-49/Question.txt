@@ -1,0 +1,12 @@
+
+
+Day 49: The "ID Compressor" Challenge
+
+The Problem (LeetCode "String Compression" style):
+Given a string of characters (like an ID), compress it by replacing consecutive
+repeating characters with the character followed by the count. If the "compressed"
+string isn't actually shorter than the original, return the original.
+
+The "Human" way to think about it:
+Imagine you are reading a list of IDs to a friend over the phone. Instead of
+saying "A, A, A, B, B, C," you would say "Three A's, Two B's, One C."
