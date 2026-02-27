@@ -1,0 +1,20 @@
+Write a program to compare two text files. If they are
+different, give the line and column numbers in the files where
+the first difference occurs.
+
+Example:
+
+File 1: python1.txt
+Friends are crazy, Friends are naughty !
+Friends are honest, Friends are best !
+Friends are like keygen, friends are like license key !
+new We are nothing without friends, Life is not possible without friends !
+
+File 2: python2.txt
+Friends are crazy, Friends are naughty !
+Friends 6re honest, Friends are best !
+Friends are like keygen, friends are like license key !
+new We are nothing without friends, Life is not possible without friends !
+
+Output:
+line number 2 colNo. 9
