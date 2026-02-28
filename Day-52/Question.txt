@@ -1,0 +1,14 @@
+
+
+Day 53: The "Valid Parentheses" Challenge
+This is a classic Level 1/2 LeetCode problem. It’s how
+compilers (like Python) check if your code has a syntax error!
+
+The Problem:
+Given a string containing just the characters '(', ')', '{', '}',
+'[' and ']', determine if the input string is valid.
+
+A string is valid if:
+
+1. Open brackets are closed by the same type of brackets.
+2. Open brackets are closed in the correct order.
