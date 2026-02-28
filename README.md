@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 Progress Tracker
-- **Current Day:** Day 51 / 100
-- **Last Updated:** Feb 27, 2026
+- **Current Day:** Day 52 / 100
+- **Last Updated:** Feb 28, 2026
 - **Status:** Moving into Week 6, the focus has shifted from writing simple logic to building resilient scripts. 🔥
 
 ---
@@ -66,7 +66,8 @@
 | **Day 49** | Feb 25 | ID Compressor | O(n) traversal, String joining optimization, Logic guards. |  [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-49) |
 | **Day 50** | Feb 26 | Unique Substring | Dynamic Sliding Window, Index Jumping, O(n) optimization.  |  [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-50) |
 | **Day 51** | Feb 27 | File Diff Engine | Nested iteration, readlines(), and Line/Column coordinate mapping. |  [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-51) |
-| **Day 52** | Feb 28 | (Waiting For Tomorrow) | (Waiting For Tomorrow) |  [View Code] |
+| **Day 52** | Feb 28 | Valid Parentheses | Stack (LIFO) Pattern, Bracket Mapping, Syntax Validation. |  [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-52) |
+| **Day 53** | March 1 | (Waiting For Tomorrow) | (Waiting For Tomorrow) |  [View Code] |
 
 
 ---
