@@ -1,0 +1,11 @@
+
+
+Day 54: The "Undo/Redo" Navigation Engine
+To make this work like a real browser, we need two stacks:
+
+1. Back Stack: Stores where you’ve been.
+2. Forward Stack: Stores the pages you "undid" so you can go
+   forward again.
+
+The Rule: If you visit a new page, the Forward Stack must be
+          cleared (because you've started a new path).
