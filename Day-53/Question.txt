@@ -1,6 +1,6 @@
 
 
-Day 54: The "Undo/Redo" Navigation Engine
+Day 53: The "Undo/Redo" Navigation Engine
 To make this work like a real browser, we need two stacks:
 
 1. Back Stack: Stores where you’ve been.
