@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Progress Tracker
-- **Current Day:** Day 53 / 100
+- **Current Day:** Day 54 / 100
 - **Last Updated:** March 2, 2026
 - **Status:** Moving into Week 6, the focus has shifted from writing simple logic to building resilient scripts. 🔥
 
@@ -68,7 +68,8 @@
 | **Day 51** | Feb 27 | File Diff Engine | Nested iteration, readlines(), and Line/Column coordinate mapping. |  [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-51) |
 | **Day 52** | Feb 28 | Valid Parentheses | Stack (LIFO) Pattern, Bracket Mapping, Syntax Validation. |  [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-52) |
 | **Day 53** | March 1 | Browser Navigation | Dual-Stack Pattern, State Management, LIFO application. |  [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-53) |
-| **Day 54** | March 2 | (Waiting For Tomorrow) | (Waiting For Tomorrow) |  [View Code] |
+| **Day 54** | March 2 | Pure Python Queue | FIFO Logic, pop(0) vs pop(), List index shifting. |  [View Code](https://github.com/jehanrm09/100-days-of-code/tree/main/Day-54) |
+| **Day 55** | March 3 | (Waiting For Tomorrow) | (Waiting For Tomorrow) |  [View Code] |
 
 
 ---
