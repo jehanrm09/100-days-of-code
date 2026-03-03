@@ -1,0 +1,10 @@
+
+
+Day 55: The "Moving Average" Algorithm
+The Problem: Given a stream of integers and a window size k, calculate
+the moving average of all integers in the sliding window.
+
+LeetCode Style:
+1. You receive a list of numbers.
+2. As you move through, you only care about the last k numbers.
+3. You must return the average of those k numbers at each step.
