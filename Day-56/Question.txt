@@ -1,6 +1,6 @@
 
 
-Day 57: First Unique Character in a String
+Day 56: First Unique Character in a String
 The Challenge: Given a string (like a long registration ID or a username),
 find the first character that does not repeat anywhere else in the string.
 If every character repeats, return -1.
