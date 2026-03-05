@@ -1,0 +1,10 @@
+
+
+Day 57: First Unique Character in a String
+The Challenge: Given a string (like a long registration ID or a username),
+find the first character that does not repeat anywhere else in the string.
+If every character repeats, return -1.
+
+The "LeetCode" Logic:
+1. Count: You need to know how many times each character appears.
+2. Order: You need to know which one appeared first.
