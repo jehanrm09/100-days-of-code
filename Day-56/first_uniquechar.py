@@ -14,7 +14,6 @@ def first_unique_char(s):
 string_a = "leetcode"
 string_b = "loveleetcode"
 string_c = "aabb"
-
 print(f"Result for 'leetcode': {first_unique_char(string_a)}")
 print(f"Result for 'loveleetcode': {first_unique_char(string_b)}")
 print(f"Result for 'aabb': {first_unique_char(string_c)}")
