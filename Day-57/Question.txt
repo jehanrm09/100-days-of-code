@@ -1,0 +1,10 @@
+
+
+Day 57: List Intersection
+
+The Logic:
+1. We have two lists: list_a and list_b.
+2. To make it fast, we turn the first list into a Set. Searching in
+   a set takes O(1) time, while searching in a list takes O(n) time.
+3. We loop through the second list and check if each item exists in our set.
+4. If it does, we add it to our results and remove it from the set.
