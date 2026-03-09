@@ -1,0 +1,6 @@
+
+
+Day 61: The Diagonal Sum (Primary & Secondary)
+The Challenge: Given a square matrix (3x3, 4x4, etc.), calculate the 
+sum of the elements on the Primary Diagonal (top-left to bottom-right)
+and the Secondary Diagonal (top-right to bottom-left).
